@@ -1,0 +1,44 @@
+<?php
+// Start the session
+session_start();
+?>
+	<html>
+		<head>
+			<title>Pretty table</title>
+ 				<link rel="stylesheet" href="css/ucket.css" type="text/css" />
+				 <link rel="stylesheet" href="css/table.css" type="text/css" />
+ 
+		</head>
+
+<body><h1>Race Times</h1>
+
+
+
+
+
+<table id="racetimes">
+<tr id="firstrow"><th>Race</th><th>Location</th><th>Distance (in kilometres)</th><th>Time</th></tr>
+<tr><td>SAIT Open</td><td>Calgary</td><td>5</td><td></td></tr>
+<tr><td>CALTAF Classic</td><td>Calgary</td><td>1.5</td><td>5.00</td></tr>
+<tr><td>Calgary Marathon</td><td>Calgary</td><td>21.1</td><td>2:00.00</td></tr>
+<tr><td>Mother's Day Run</td><td>Calgary</td><td>10</td><td>45.00</td></tr>
+<tr><td>Edmonton Marathon</td><td>Edmonton</td><td>21.1</td><td>1:30.00</td></tr>
+<tr><td>Mother's Day Run</td><td>Calgary</td><td>10</td><td>45.00</td></tr>
+<tr><td>Edmonton Marathon</td><td>Edmonton</td><td>21.1</td><td>1:30.00</td></tr>
+<tr><td>Mother's Day Run</td><td>Calgary</td><td>10</td><td>45.00</td></tr>
+<tr><td>Edmonton Marathon</td><td>Edmonton</td><td>21.1</td><td>1:30.00</td></tr>
+<tr><td>Mother's Day Run</td><td>Calgary</td><td>10</td><td>45.00</td></tr>
+<tr><td>Edmonton Marathon</td><td>Edmonton</td><td>21.1</td><td>1:30.00</td></tr>
+<tr><td>Mother's Day Run</td><td>Calgary</td><td>10</td><td>45.00</td></tr>
+<tr><td>Edmonton Marathon</td><td>Edmonton</td><td>21.1</td><td>1:30.00</td></tr>
+<tr><td>Zombie Survivor</td><td>Cochrane</td><td>5</td><td>25.00</td></tr>
+<tr><td>Run for Women</td><td>Calgary</td><td>5</td><td>20.00</td></tr>
+<tr><td>Mother's Day Run</td><td>Calgary</td><td>10</td><td>45.00</td></tr>
+<tr><td>Edmonton Marathon</td><td>Edmonton</td><td>21.1</td><td>1:30.00</td></tr>
+</table>
+</body>
+</html>
+
+
+
+
